@@ -1,0 +1,11 @@
+h1 {
+    font-size: 55px;
+    color: #cdcaaf;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+h2 {
+    font-size: 34px;
+}
